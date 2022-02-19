@@ -1,3 +1,0 @@
-C:/Users/User/source/repos/Stats/out/build/x64-Debug/CMakeFiles/Stats.dir
-C:/Users/User/source/repos/Stats/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/User/source/repos/Stats/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
