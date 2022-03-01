@@ -2,9 +2,9 @@
 Stats - Программа для отслеживания работоспособности сервисов.
 На данный момент всего 4-мя сервисами может управлять Stats
 
-      - Nginx(Закончено)
+          - Nginx(Закончено)
 	  - Wings - Pterodactyl Daemon(Закончено)
-	  - MySQL(Не готово)
+	  - MySQL(Закончено)
 	  - Redis(Не готово)
 	  - htop(Закончено)
 Для установки введите
@@ -14,6 +14,6 @@ chmod 777 install-stats && ./install-stats
    /usr/local/bin/
  - С названием stats. В нём должно быть содержимое:
    ```bash```
-   #!/bin/bash
+  ``` #!/bin/bash
    
-   sudo /usr/share/stats/a.out
+   sudo /usr/share/stats/a.out```
