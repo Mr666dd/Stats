@@ -13,6 +13,7 @@ chmod 777 install-stats && ./install-stats
  - Вам необходимо создать файл в 
    /usr/local/bin/
  - С названием stats. В нём должно быть содержимое:
+   ```bash```
    #!/bin/bash
    
    sudo /usr/share/stats/a.out
