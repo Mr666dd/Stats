@@ -14,5 +14,5 @@ chmod 777 install-stats && ./install-stats
    /usr/local/bin/
  - С названием stats. В нём должно быть содержимое:
       - ``` #!/bin/bash ```
-   
+      - ``` ```
       - ```sudo /usr/share/stats/a.out```
